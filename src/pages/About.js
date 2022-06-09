@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 import profilePic from '../assets/ProfilePic.png';
 import './About.css';  
 export default class About extends Component {
